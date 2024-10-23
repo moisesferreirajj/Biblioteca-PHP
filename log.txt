@@ -1,0 +1,20 @@
+POST Data: Array
+(
+)
+
+POST Data: Array
+(
+    [usuario] => moises
+    [chave] => 251425
+)
+
+POST Data: Array
+(
+    [usuario] => moises
+    [chave] => momo251425
+)
+
+POST Data: Array
+(
+)
+
