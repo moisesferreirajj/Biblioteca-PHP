@@ -2,3 +2,4 @@
 *.scss linguist-vendored
 *.less linguist-vendored
 *.html linguist-vendored
+*.htm linguist-vendored
